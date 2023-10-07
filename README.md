@@ -22,8 +22,6 @@ Find the pairwise correlation of all columns in the dataframe.corr()
 Save the final data set into the file.
 ## PROGRAM:
 ```
-Name : gokulnath h
-Register Number : 212222040045
 ```
 ### SuperStore.csv file:
 ```
